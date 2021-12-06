@@ -2,12 +2,15 @@
 
 In this repository we have three files:
 
-i) heatmap.ipynb:
+<b> i) heatmap.ipynb: <b/>
 You can generate heatmap using the python code.
 <img src="https://www.displayr.com/wp-content/uploads/2018/09/rat-burrough-heatmap-1.png"/>
 
 
-ii) linear.ipynb
-iii) Correlation Matrix.ipynb
+<b> ii) linear.ipynb <b/>
+  
+  
+  
+<b> iii) Correlation Matrix.ipynb <b/>
 
 
